@@ -16,6 +16,10 @@
  
   <li><a href="https://github.com/lfalvespe/Exercicios-Java/tree/main/Controle%20Remoto" target="_blank">Controle Remoto</a>
   - Treinando Encapsulamento/Interfaces (POO). 
- </li>
+  </li>
+ 
+   <li><a href="https://github.com/lfalvespe/Exercicios-Java/tree/main/UFC" target="_blank">Simulador de UFC</a>
+  - Treinando Relações entre classes (POO). 
+  </li>
  
  </ol>
