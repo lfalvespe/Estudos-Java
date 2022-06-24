@@ -1,5 +1,6 @@
-# Exercicios-Java
- <h2>Primeiros Exercicios em Java</h2>
+<img src="java-icon.png" width="64px" height="64px" align="right">
+
+# Primeiros Exercicios em Java
  
  <ol>
  <li><a href="https://github.com/lfalvespe/Exercicios-Java/blob/main/Fatorial.java" target="_blank">Fatorial</a>
